@@ -10,9 +10,13 @@ Trophy unlocks are stored on the Bartender server after a sync, so you do not ha
 
 # Why the Name?
 When you are on an island there is nothing better than a nice cold drink. Besides me just loving alcohol, the name comes from the theme of the app. Instead of the tradional trophy levels I use different drinks.
+
 <strong>Rum and Coke == Bronze</strong>
+
 <strong>Mojito == Silver</strong>
+
 <strong>Piña Colada == Gold</strong>
+
 <strong>Vita Island Ice Tea == Platinum</strong>
 
 The more drinks you acquire the higher your Bar Tab grows. The Top 100 Bar Tabs are featured on the Top 100 page. This page is accessed by tapping the "Bartender's Top 100" button when you open up the Bartender bubble.
