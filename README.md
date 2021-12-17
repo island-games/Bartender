@@ -25,7 +25,7 @@ The more drinks you acquire the higher your Bar Tab grows. The Top 100 Bar Tabs 
 If anyone finds any bugs I will be sure to do my best to fix them in a timely manner. In regards to features, I may do a custom theme update in the future, but honestly I am a bit on the fence about that. Same goes for touch controls, but if there is a big enough demand for it then I will try to make time.
 
 # When will you release the library so we can make our own games with trophies?
-Sooner than later. I want people to play the game I created to show this feature off first. That way it is a bit more controlled and I can have an easier time finding bugs. Follow my twitter account for more information about the release.
+You can find the library (here)[https://github.com/island-games/LibBartender] and the mixologist app (here)[https://github.com/island-games/Mixologist].
 
 # Credits and Special Thanks
 Thank you @GideonOnGaming for creating the logo and thank you @SomeonPC for creating the theme.
